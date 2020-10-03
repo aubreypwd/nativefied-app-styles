@@ -1,5 +1,5 @@
 # Installation
 
 ```bash
-npm i git@github.com:aubreypwd/nativefied-app-styles.git#<version>
+npm i ssh://git@github.com:aubreypwd/nativefied-app-styles.git#<version>
 ```
